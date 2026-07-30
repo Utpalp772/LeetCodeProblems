@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
