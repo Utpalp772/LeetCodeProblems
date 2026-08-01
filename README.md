@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [1929-concatenation-of-array](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -41,4 +43,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/utpalp772-beep/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
